@@ -1,0 +1,315 @@
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DTO\obj\Debug\net6.0\ref\DTO.dll

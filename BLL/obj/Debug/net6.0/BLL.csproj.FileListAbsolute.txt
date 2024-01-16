@@ -1,0 +1,395 @@
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\BLL\obj\Debug\net6.0\ref\BLL.dll

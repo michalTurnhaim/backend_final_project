@@ -1,0 +1,294 @@
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\לימודים רחלי\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\פרויקט גמר\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\16.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\-מיכלי 24.04\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\לימודים רחלי\פרויקט גמר\03.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\גיבוי\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\17.05\06.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\21.05\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\04.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\11.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\לימודים רחלי\פרויקט גמר\‏‏תיקיה חדשה (3)\פרויקט גמר\18.06\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\12.07\12.07\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\לימודים רחלי\פרויקט גמר\26.08\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\פרוייקט\02.09\API-FINAL_PROJECT\DAL\obj\Debug\net6.0\ref\DAL.dll
